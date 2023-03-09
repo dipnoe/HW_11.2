@@ -7,6 +7,6 @@ def up_letters(string: str) -> str:
 
 def title_words(string: str) -> str:
     """
-    return words with title first letter
+    function returns words with title first letter
     """
     return string.title()
