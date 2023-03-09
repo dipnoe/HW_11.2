@@ -6,6 +6,7 @@ def up_letters(string: str) -> str:
 
 
 def title_words(string: str) -> str:
+    """
+    return words with title first letter
+    """
     return string.title()
-
-print(title_words('hello, world!'))
