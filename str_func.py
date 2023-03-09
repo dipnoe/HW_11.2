@@ -7,5 +7,3 @@ def up_letters(string: str) -> str:
 
 def title_words(string: str) -> str:
     return string.title()
-
-print(title_words('hello, world!'))
