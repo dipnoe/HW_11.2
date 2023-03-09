@@ -1,4 +1,7 @@
 def up_letters(string: str) -> str:
+    """
+    return words in upper case
+    """
     return string.upper()
 
 
